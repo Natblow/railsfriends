@@ -1,5 +1,9 @@
-# Friends List App
+# Friends List Rails App
 
-Hi my name is Nathan and I work at Bell.ca 
+Website where users login in their account and then can add friends.
 
-This is my Ruby on Rails Friends List App!
+It is a basic CRUD application with a purpose to practice.
+
+Made with the codemy tutorial from @flatplanet . 
+
+It has been deployed on Heroku : https://railsfriendstuto.herokuapp.com/
